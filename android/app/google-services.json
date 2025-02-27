@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119453243258",
+    "project_id": "my-students-absen",
+    "storage_bucket": "my-students-absen.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119453243258:android:002f65c3c1a3a80cafa8c3",
+        "android_client_info": {
+          "package_name": "com.example.student_attendance_with_mlkit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2xtPLd2n22q7WRrj5w0EQcecAuVMaAHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
